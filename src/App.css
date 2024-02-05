@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #F0F0F0;
+}
+
+.form {
+  width: 50rem;
+  height: 20rem;
+  margin: auto;
+}
+
+.datePicker {
+  width: 100%;
+  color: black;
+}
+
+.datePickerCustom {
+  width: 100%;
+
+    .ant-picker-input {
+      width: 4rem;
+  }
+}
